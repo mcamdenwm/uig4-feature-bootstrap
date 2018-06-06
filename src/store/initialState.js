@@ -1,5 +1,6 @@
 export default {
 	$FEATURE: {
+		THING: true,
 		// Create modal
 		CREATE: {
 			open: false,
